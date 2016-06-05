@@ -1,0 +1,24 @@
+name: CTF
+main: ctf\Main
+version: 1.0.0
+api: [1.0.0]
+website: none
+authors: [LewBr, MinecrafterPH]
+description: "Minigame based on EPICMC."
+commands: 
+    ctfbs:
+        description: Sets spawn for Blue team.
+    ctfbr:
+        description: Sets where to return blue flag.
+    ctfbf:
+        description: Sets location of blue flag.
+    ctfrs:
+        description: Sets spawn for Red team.
+    ctfrr:
+        description: Sets where to return red flag.
+    ctfrf:
+        description: Sets location of red flag.
+    lobbyset:
+        description: Sets location of lobby.
+    ctfedit:
+        description: Allows ops to edit world.
