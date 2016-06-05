@@ -1,0 +1,9 @@
+---
+Maximum score to win (Integer): 15
+Game Length (Mins): 20
+Set the lobby.:
+  x: 154
+  "y": 70
+  z: 97
+  level: world
+...
