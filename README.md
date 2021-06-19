@@ -1,2 +1,2 @@
 # Capture the Flag
-Capture the Flag by MinecraftPH
+Capture the Flag by MinecraftPH.
