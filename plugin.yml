@@ -3,7 +3,7 @@ main: ctf\Main
 version: 1.0.0
 api: [1.0.0]
 website: none
-authors: [LewBr, MinecrafterPH]
+authors: [MinecrafterPH]
 description: "Minigame based on EPICMC."
 commands: 
     ctfbs:
